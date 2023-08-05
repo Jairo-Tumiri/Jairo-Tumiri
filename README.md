@@ -1,4 +1,5 @@
-<img  width="350" align="right" src="https://raw.githubusercontent.com/Jairo-Tumiri/Jairo-Tumiri/main/sobremi.gif" />
+<img  width="400" align="right" src="https://raw.githubusercontent.com/Jairo-Tumiri/Jairo-Tumiri/main/sobremi.gif" >
+
 <h1>Soy Jairo Tumiri <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h2> Front-end Developer 🎨 </h2>
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Jairo-Tumiri&show_icons=true&theme=dark#gh-dark-mode-only">
@@ -16,14 +17,15 @@
   <a href="https://twitter.com/j_jairot"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Jairo%20Tumiri-blue?style=flat-square&logo=twitter"></a>  
   <a href="jhon.jairo.tumiri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-jhon.jairo.tumiri@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-  <img  width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairo-Tumiri&layout=compact&theme=dark" />
+  <img  width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairo-Tumiri&layout=compact&theme=dark" />
+  <br/>
   
 ## 🖥️👨‍💻 TECNOLOGIAS
 <img  width="400px" src="https://raw.githubusercontent.com/Jairo-Tumiri/Jairo-Tumiri/main/tec.png" />
 
 ## 💼 PORTAFOLIO
 <a  align="left" href="https://github.com/Jairo-Tumiri/portafolio-jairotumiri">
-  <img  width="290" src="https://github-readme-stats.vercel.app/api/pin/?username=Jairo-Tumiri&repo=portafolio-jairotumiri&theme=dark" />
+  <img  width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Jairo-Tumiri&repo=portafolio-jairotumiri&theme=dark" />
 </a>
 
 
