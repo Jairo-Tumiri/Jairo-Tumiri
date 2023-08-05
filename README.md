@@ -25,7 +25,7 @@
 
 ## 💼 PORTAFOLIO
 <a  align="left" href="https://github.com/Jairo-Tumiri/portafolio-jairotumiri">
-  <img  width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Jairo-Tumiri&repo=portafolio-jairotumiri&theme=dark" />
+  <img  width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Jairo-Tumiri&repo=portafolio-jairotumiri&theme=dark" />
 </a>
 
 
