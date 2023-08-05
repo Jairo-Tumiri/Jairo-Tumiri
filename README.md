@@ -17,8 +17,9 @@
   <a href="https://www.instagram.com/jaiiirot/"><img alt="Instagram" src="https://img.shields.io/badge/Youtube-Jairo%20Tumiri-blue?style=flat-square&logo=instagram"></a>
   <a href="https://twitter.com/j_jairot"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Jairo%20Tumiri-blue?style=flat-square&logo=twitter"></a>  
   <a href="jhon.jairo.tumiri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-jhon.jairo.tumiri@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+  <br>
   <img  width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairo-Tumiri&layout=compact&theme=dark" />
-  <br/>
+  <br>
   
 ## 🖥️👨‍💻 TECNOLOGIAS
 <img  width="400px" src="https://raw.githubusercontent.com/Jairo-Tumiri/Jairo-Tumiri/main/tec.png" />
