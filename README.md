@@ -9,7 +9,7 @@
   - Estoy cursando la carrera de Ing. en Sistemas de Informacion en la UTN.
   - En estos momentos me enfoco en el desarrollo Front-end, pero a largo plazo mi meta es se full-stack.
 <br>
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Jairo-Tumiri&show_icons=true&theme=dark#gh-dark-mode-only">
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Jairo-Tumiri&show_icons=true&theme=dark#gh-dark-mode-only">
   
 #### CONTACTAME SI TE PUEDO BRINDAR AYUDAR EN ALGO
   
