@@ -29,3 +29,4 @@
 </a>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jairo-Tumiri&label=Profile%20views&color=FF20C7&style=flat" alt="Jairo-Tumiri" /> </p>
