@@ -9,9 +9,9 @@
   - Estoy cursando la carrera de Ing. en Sistemas de Informacion en la UTN.
   - En estos momentos me enfoco en el desarrollo Front-end, pero a largo plazo mi meta es se full-stack.
 <br>
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Jairo-Tumiri&show_icons=true&theme=dark#gh-dark-mode-only">
   
-#### CONTACTAME SI TE PUEDO BRINDAR AYUDAR EN ALGO
+#### CONTACTAME, SI TE PUEDO AYUDAR EN ALGO
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Jairo-Tumiri&show_icons=true&theme=dark#gh-dark-mode-only">
   
   <a href="https://www.linkedin.com/in/jhon-jairo-tumiri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jairo%20Tumiri-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/jaiiirot/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Jairo%20Tumiri-blue?style=flat-square&logo=instagram"></a>
@@ -22,10 +22,11 @@
   <img  width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairo-Tumiri&layout=compact&theme=dark" />
   <br>
   
-## 🖥️👨‍💻 TECNOLOGIAS
+## 🖥️👨‍💻 Mi Stack de Desarrollo
 <img  width="400px" src="https://raw.githubusercontent.com/Jairo-Tumiri/Jairo-Tumiri/main/tec.png" />
 
-## 💼 PORTAFOLIO
+
+## 💼 Mi portafolio
 <a  align="left" href="https://github.com/Jairo-Tumiri/portafolio-jairotumiri">
   <img  width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Jairo-Tumiri&repo=portafolio-jairotumiri&theme=dark" />
 </a>
