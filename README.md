@@ -1,13 +1,13 @@
 > Jhon Jairo Tumiri 
 # Full-Stack Developer 🎨
 
-<img align="right" src="https://raw.githubusercontent.com/jaiiirot/jaiiirot/main/hiro350.jpg" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/jaiiirot/jaiiirot/main/hiro350.jpg"/>
 
-  - Tengo 20 años con residencia en Buenos Aires.
-  - Soy graduado en Tecnico de Computacion por un colegio secundario tecnico.
-  - Finalice mis cursos de Desarrollo Web, JavaScript y React en CoderHouse.
-  - Estoy cursando la carrera de Ing. en Sistemas de Informacion en la UTN.
-  - En estos momentos me enfoco en el desarrollo Front-end, pero a largo plazo mi meta es se full-stack.
+- Tengo 20 años con residencia en Buenos Aires.
+- Soy graduado en Tecnico de Computacion por un colegio secundario tecnico.
+- Finalice mis cursos de Desarrollo Web, JavaScript y React en CoderHouse.
+- Estoy cursando la carrera de Ing. en Sistemas de Informacion en la UTN.
+- En estos momentos me enfoco en el desarrollo Front-end, pero a largo plazo mi meta es se full-stack.
 
 <br>
 
