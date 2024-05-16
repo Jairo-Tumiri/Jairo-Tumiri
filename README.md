@@ -3,6 +3,8 @@
 
 <img align="right" src="https://raw.githubusercontent.com/jaiiirot/jaiiirot/main/hiro350.jpg"/>
 
+<br>
+
 - Tengo 20 años con residencia en Buenos Aires.
 - Soy graduado en Tecnico de Computacion por un colegio secundario tecnico.
 - Finalice mis cursos de Desarrollo Web, JavaScript y React en CoderHouse.
