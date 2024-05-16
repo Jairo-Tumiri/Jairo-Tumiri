@@ -9,7 +9,9 @@
   - Estoy cursando la carrera de Ing. en Sistemas de Informacion en la UTN.
   - En estos momentos me enfoco en el desarrollo Front-end, pero a largo plazo mi meta es se full-stack.
 
-## 🖥️👨‍💻 Stack
+<br>
+
+<h2>🖥️👨‍💻 Stack</h2>
 
 <img src="https://svgl.app/library/mongodb.svg" width="30" height="30" /> <img src="https://svgl.app/library/c++.svg" width="30" height="30" /> <img src="https://svgl.app/library/nodejs.svg" width="30" height="30" /> <img src="https://svgl.app/library/java.svg" width="30" height="30" /> <img src="https://svgl.app/library/mysql.svg" width="30" height="30" /> <img src="https://svgl.app/library/react.svg" width="30" height="30" /> <img src="https://svgl.app/library/javascript.svg" width="30" height="30" /> <img src="https://svgl.app/library/html5.svg" width="30" height="30" /> <img src="https://svgl.app/library/css.svg" width="30" height="30" />  <img src="https://svgl.app/library/tailwindcss.svg" width="30" height="30" /> <img src="https://svgl.app/library/bootstrap.svg" width="30" height="30" /> <img src="https://svgl.app/library/sass.svg" width="30" height="30" />
 
