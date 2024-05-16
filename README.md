@@ -1,7 +1,7 @@
 > Jhon Jairo Tumiri 
 # Full-Stack Developer 🎨
 
-<img align="right" src="https://raw.githubusercontent.com/jaiiirot/jaiiirot/main/hiro350.jpg" width="250"/>
+<img align="right" src="https://raw.githubusercontent.com/jaiiirot/jaiiirot/main/hiro350.jpg" width="300"/>
 
   - Tengo 20 años con residencia en Buenos Aires.
   - Soy graduado en Tecnico de Computacion por un colegio secundario tecnico.
