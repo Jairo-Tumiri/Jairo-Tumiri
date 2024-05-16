@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/jaiiirot/jaiiirot/main/hiro350.jpg" width="250"/>
 
-<ul height="300" > <li>Tengo 19 años con residencia en Buenos Aires.</li><li>Soy graduado en Tecnico de Computacion por un colegio secundario tecnico.</li><li>Finalice mis cursos de Desarrollo Web, JavaScript y React en CoderHouse.</li><li>Estoy cursando la carrera de Ing. en Sistemas de Informacion en la UTN.</li><li>En estos momentos me enfoco en el desarrollo Front-end, pero a largo plazo mi meta es se full-stack.</li></ul>
+<ul height="300" > <li>Tengo 20 años con residencia en Buenos Aires.</li><li>Soy graduado en Tecnico de Computacion por un colegio secundario tecnico.</li><li>Finalice mis cursos de Desarrollo Web, JavaScript y React en CoderHouse.</li><li>Estoy cursando la carrera de Ing. en Sistemas de Informacion en la UTN.</li><li>En estos momentos me enfoco en el desarrollo Front-end, pero a largo plazo mi meta es se full-stack.</li></ul>
 
 ## 🖥️👨‍💻 Stack
 
