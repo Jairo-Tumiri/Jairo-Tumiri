@@ -2,21 +2,14 @@
 
 # Jhon Jairo Tumiri  |  Full-Stack Developer 🎨
 
-<img align="right" src="https://raw.githubusercontent.com/jaiiirot/jaiiirot/main/hiro350.jpg" />
+<img align="right" src="https://raw.githubusercontent.com/jaiiirot/jaiiirot/main/hiro350.jpg" width="250"/>
 
 <ul height="300" > <li>Tengo 19 años con residencia en Buenos Aires.</li><li>Soy graduado en Tecnico de Computacion por un colegio secundario tecnico.</li><li>Finalice mis cursos de Desarrollo Web, JavaScript y React en CoderHouse.</li><li>Estoy cursando la carrera de Ing. en Sistemas de Informacion en la UTN.</li><li>En estos momentos me enfoco en el desarrollo Front-end, pero a largo plazo mi meta es se full-stack.</li></ul>
 
-<br>
+## 🖥️👨‍💻 Stack
 
-## 🖥️👨‍💻 Mi Stack de Desarrollo
+| Skill  | Tools  |
+|---     |---     |
+|<img src="https://svgl.app/library/mongodb.svg" width="30" height="30" /> <img src="https://svgl.app/library/c++.svg" width="30" height="30" /> <img src="https://svgl.app/library/nodejs.svg" width="30" height="30" /> <img src="https://svgl.app/library/java.svg" width="30" height="30" /> <img src="https://svgl.app/library/mysql.svg" width="30" height="30" /> <img src="https://svgl.app/library/react.svg" width="30" height="30" /> <img src="https://svgl.app/library/javascript.svg" width="30" height="30" /> <img src="https://svgl.app/library/html5.svg" width="30" height="30" /> <img src="https://svgl.app/library/css.svg" width="30" height="30" />  <img src="https://svgl.app/library/tailwindcss.svg" width="30" height="30" /> <img src="https://svgl.app/library/bootstrap.svg" width="30" height="30" /> <img src="https://svgl.app/library/sass.svg" width="30" height="30" />| <img src="https://svgl.app/library/vscode.svg" width="30" height="30" /> <img src="https://svgl.app/library/git.svg" width="30" height="30" /> <img src="https://svgl.app/library/github.svg" width="30" height="30" />|
 
-| Stack  |
-|---     |
-|<img src="https://svgl.app/library/mongodb.svg" width="30" height="30" /> <img src="https://svgl.app/library/c++.svg" width="30" height="30" /> <img src="https://svgl.app/library/nodejs.svg" width="30" height="30" /> <img src="https://svgl.app/library/java.svg" width="30" height="30" /> <img src="https://svgl.app/library/mysql.svg" width="30" height="30" /> <img src="https://svgl.app/library/react.svg" width="30" height="30" /> <img src="https://svgl.app/library/javascript.svg" width="30" height="30" /> <img src="https://svgl.app/library/html5.svg" width="30" height="30" /> <img src="https://svgl.app/library/css.svg" width="30" height="30" />  <img src="https://svgl.app/library/tailwindcss.svg" width="30" height="30" /> <img src="https://svgl.app/library/bootstrap.svg" width="30" height="30" /> <img src="https://svgl.app/library/sass.svg" width="30" height="30" />|
-|Tools     |
-|<img src="https://svgl.app/library/vscode.svg" width="30" height="30" /> <img src="https://svgl.app/library/git.svg" width="30" height="30" /> <img src="https://svgl.app/library/github.svg" width="30" height="30" />|
-
-## 💼 Mi portafolio
-
-> [!IMPORTANT]
-> Mi portafolio: https://jairotumiri.vercel.app/.
+💼 Mi portafolio: https://jairotumiri.vercel.app/
