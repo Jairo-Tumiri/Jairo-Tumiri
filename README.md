@@ -1,5 +1,4 @@
-## Jhon Jairo Tumiri 
-
+> Jhon Jairo Tumiri 
 # Full-Stack Developer 🎨
 
 <img align="right" src="https://raw.githubusercontent.com/jaiiirot/jaiiirot/main/hiro350.jpg" width="250"/>
